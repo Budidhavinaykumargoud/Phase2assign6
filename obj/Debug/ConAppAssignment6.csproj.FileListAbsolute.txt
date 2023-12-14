@@ -1,0 +1,7 @@
+D:\Simplilearn\Phase2\Day6\ConAppAssignment6\ConAppAssignment6\bin\Debug\ConAppAssignment6.exe.config
+D:\Simplilearn\Phase2\Day6\ConAppAssignment6\ConAppAssignment6\bin\Debug\ConAppAssignment6.exe
+D:\Simplilearn\Phase2\Day6\ConAppAssignment6\ConAppAssignment6\bin\Debug\ConAppAssignment6.pdb
+D:\Simplilearn\Phase2\Day6\ConAppAssignment6\ConAppAssignment6\obj\Debug\ConAppAssignment6.csproj.AssemblyReference.cache
+D:\Simplilearn\Phase2\Day6\ConAppAssignment6\ConAppAssignment6\obj\Debug\ConAppAssignment6.csproj.CoreCompileInputs.cache
+D:\Simplilearn\Phase2\Day6\ConAppAssignment6\ConAppAssignment6\obj\Debug\ConAppAssignment6.exe
+D:\Simplilearn\Phase2\Day6\ConAppAssignment6\ConAppAssignment6\obj\Debug\ConAppAssignment6.pdb
